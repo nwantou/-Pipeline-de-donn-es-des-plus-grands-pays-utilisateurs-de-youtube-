@@ -1,0 +1,2 @@
+# -Pipeline-de-donn-es-des-plus-grands-pays-utilisateurs-de-youtube-
+Implémentation d’une pipeline de données qui collecte des données YouTube pour les 5 pays comptant le plus d'utilisateurs de YouTube : le Brésil, l'Inde, l'Indonésie, le Mexique et les États-Unis et détermine les catégories de vidéos les plus populaires dans chaque pays et si elles changent au fil du temps (AWS ,Python, Apache Airflow)
